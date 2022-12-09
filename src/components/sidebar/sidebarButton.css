@@ -3,7 +3,7 @@ a {
 }
 
 .btn-body {
-    height:60px;
+    height:90px;
     width: 60px;
     border-radius:20px;
     color:rgb(255, 255, 255);
@@ -11,6 +11,7 @@ a {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin: 5px auto;
 }
 
 .btn-title {
